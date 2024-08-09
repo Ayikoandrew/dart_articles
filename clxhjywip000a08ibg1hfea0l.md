@@ -1,5 +1,5 @@
 ---
-title: "My 100 Days Of Coding Challenge ( Week 3 Summary): Exploring Dart"
+title: "100 Days Of Coding Challenge ( Week 3 Summary): Exploring Dart"
 datePublished: Sun Jun 16 2024 12:58:49 GMT+0000 (Coordinated Universal Time)
 cuid: clxhjywip000a08ibg1hfea0l
 slug: my-100-days-of-coding-challenge-week-3-summary-exploring-dart

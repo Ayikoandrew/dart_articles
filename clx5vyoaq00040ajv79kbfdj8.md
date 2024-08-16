@@ -1,8 +1,9 @@
 ---
-title: "My 100 Days Of Coding Challenge ( Week 2 Summary): Exploring Dart"
+title: "100 Days Of Coding Challenge ( Week 2 Summary): Exploring Dart"
+seoTitle: "Week 2 Coding: Dart Exploration Summary"
 datePublished: Sat Jun 08 2024 09:01:19 GMT+0000 (Coordinated Universal Time)
 cuid: clx5vyoaq00040ajv79kbfdj8
-slug: my-100-days-of-coding-challenge-week-2-summary-exploring-dart
+slug: 100-days-of-coding-challenge-week-2-summary-exploring-dart
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717830727801/7bf0be23-a2cd-4bc2-a5dc-1034a18768d5.png
 tags: dart-programming-tutorial, dart-for-beginners
 
